@@ -1,2 +1,2 @@
 # TUGAS-DENNY
-TUGAS / PR ETL
+Berisi latihan latihan dari pengerjaan dari Chapter 1 - 8
